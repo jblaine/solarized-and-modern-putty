@@ -1,7 +1,7 @@
 Solarized Modern PuTTY Defaults
 ===============================
 
-A registry (.reg) file for setting [Solarized Dark PuTTY coloring][solarized] and most [modern sane PuTTY default settings][arabesque] that most would want.
+A registry (.reg) file for setting [Solarized Dark PuTTY coloring](https://github.com/altercation/solarized) and most [modern sane PuTTY default settings](http://blog.sanctum.geek.nz/putty-configuration/) that most would want.
 
 Usage
 =====
@@ -35,5 +35,7 @@ Contributing
 ============
 All pull requests that address _common_ settings _most anyone_ would want will be strongly considered. If you simply disagree with the settings above, then just make your changes on your side.
 
-[solarized]: https://github.com/altercation/solarized "Solarized - Precision colors for machines and people"
-[arabesque]: http://blog.sanctum.geek.nz/putty-configuration/ "Tom Ryder (arabesque) - PuTTY Configuration"
+Thanks
+======
+* To Ethan Schoonover and those who have committed to the [Solarized](http://ethanschoonover.com/solarized) project
+* To [Tom Ryder](http://blog.sanctum.geek.nz/putty-configuration/) and [Dag Wiiers](http://dag.wieers.com/blog/content/improving-putty-settings-on-windows) for their blog posts.
