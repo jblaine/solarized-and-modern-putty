@@ -1,7 +1,7 @@
 Solarized Modern PuTTY Defaults
 ===============================
 
-A registry (.reg) file for setting [Solarized Dark PuTTY coloring][solarized] and [modern sane PuTTY default settings][arabesque] that most would want.
+A registry (.reg) file for setting [Solarized Dark PuTTY coloring][solarized] and most [modern sane PuTTY default settings][arabesque] that most would want.
 
 Usage
 =====
