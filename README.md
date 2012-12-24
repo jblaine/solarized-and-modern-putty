@@ -34,7 +34,5 @@ Contributing
 ============
 All pull requests that address _common_ settings _most anyone_ would want will be strongly considered.
 
-References
-==========
 [solarized]: https://github.com/altercation/solarized "Solarized - Precision colors for machines and people"
 [arabesque]: http://blog.sanctum.geek.nz/putty-configuration/ "Tom Ryder (arabesque) - PuTTY Configuration"
