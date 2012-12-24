@@ -11,7 +11,7 @@ Usage TL;DR
 Usage Detailed
 ==============
 1. Read "What You Get" below to ensure this is what you want to set for your "Default Settings" profile in PuTTY.
-2. (Optional, most modern Linux distros have this): Test your intended destination systems for the putty-256color terminal definition by running ```infocmp putty-256color```
+2. (OPTIONAL, most modern Linux distros have this): Test your intended destination systems for the putty-256color terminal definition by running ```infocmp putty-256color```. If you don't see a bunch of crazy terminal definition stuff spit to your screen, you don't have the putty-256color terminfo data. Figure out why and fix it if you care to continue.
 2. Download the .reg file (review it in a text editor for your own security conscience)
 3. Double-click on it to set the settings in the Windows registry, then use PuTTY to change anything you don't like.
 4. Make new host-specific PuTTY profiles from within PuTTY (they will inherit your Default Settings).
