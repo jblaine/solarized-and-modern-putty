@@ -33,7 +33,7 @@ All of the following are applied to the standard "Default Settings" PuTTY profil
 
 Contributing
 ============
-All pull requests that address _common_ settings _most anyone_ would want will be strongly considered.
+All pull requests that address _common_ settings _most anyone_ would want will be strongly considered. If you simply disagree with the settings above, then just make your changes on your side.
 
 [solarized]: https://github.com/altercation/solarized "Solarized - Precision colors for machines and people"
 [arabesque]: http://blog.sanctum.geek.nz/putty-configuration/ "Tom Ryder (arabesque) - PuTTY Configuration"
