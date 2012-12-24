@@ -14,6 +14,7 @@ Usage Detailed
 2. Download the .reg file (review it in a text editor for your own security conscience)
 3. Double-click on it to set the settings in the Windows registry, then use PuTTY to change anything you don't like.
 4. Make new host-specific PuTTY profiles from within PuTTY (they will inherit your Default Settings).
+5. If you get stuck in any way, go read the blog posts from Tom and Dag in the "Thanks" section of this README.
 
 What You Get
 ============
