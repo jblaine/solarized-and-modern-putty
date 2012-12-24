@@ -5,9 +5,9 @@ A registry (.reg) file for setting [Solarized Dark PuTTY coloring][solarized] an
 
 Usage
 =====
-# Read "What You Get" below to ensure this is what you want!
-# Download the .reg file (review it in a text editor for your own security conscience)
-# Double-click on it to set the settings
+1. Read "What You Get" below to ensure this is what you want!
+2. Download the .reg file (review it in a text editor for your own security conscience)
+3. Double-click on it to set the settings
 
 What You Get
 ============
