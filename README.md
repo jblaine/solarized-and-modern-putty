@@ -5,7 +5,7 @@ A Windows registry (.reg) file for setting the "Default Settings" PuTTY profile 
 
 Usage TL;DR
 ===========
-1. Download the `putty-modern-256color.reg`, review it in an editor, then double-click it.
+1. Download the `putty-modern-256color.reg` file, review it in an editor, then double-click it.
 2. Make new PuTTY profiles (they inherit the "Default Settings" profile)
 
 Usage Detailed
