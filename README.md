@@ -5,17 +5,18 @@ A Windows registry (.reg) file for setting the "Default Settings" PuTTY profile 
 
 Usage TL;DR
 ===========
-1. Download the .reg file, review it in an editor, then double-click it.
+1. Download the `putty-modern-256color.reg`, review it in an editor, then double-click it.
 2. Make new PuTTY profiles (they inherit the "Default Settings" profile)
 
 Usage Detailed
 ==============
 1. Read "What You Get" below to ensure this is what you want to set for your "Default Settings" profile in PuTTY.
-2. (OPTIONAL, most modern Linux distros have this): Test your intended destination systems for the putty-256color terminal definition by running ```infocmp putty-256color```. If you don't see a bunch of crazy terminal definition stuff spit to your screen, you don't have the putty-256color terminfo data. Figure out why and fix it if you care to continue.
-2. Download the .reg file (review it in a text editor for your own security conscience)
-3. Double-click on it to set the settings in the Windows registry, then use PuTTY to change anything you don't like.
-4. Make new host-specific PuTTY profiles from within PuTTY (they will inherit your Default Settings).
-5. If you get stuck in any way, go read the blog posts from Tom and Dag in the "Thanks" section of this README.
+2. OPTIONAL (most modern Linux distros have this): Test your intended destination systems for the putty-256color terminal definition by running ```infocmp putty-256color```. If you don't see a bunch of crazy terminal definition stuff spit to your screen, you don't have the putty-256color terminfo data. Figure out why and fix it if you care to continue.
+3. OPTIONAL: Save your current PuTTY registry settings to a file with `regedit /ea putty-save.reg  HKEY_CURRENT_USER\Software\SimonTatham\PuTTY`
+4. Download the `putty-modern-256color.reg` file from this git repository (review it in a text editor for your own security conscience)
+5. Double-click on it to set the settings in the Windows registry, then use PuTTY to change anything you don't like.
+6. Make new host-specific PuTTY profiles from within PuTTY (they will inherit your Default Settings).
+7. If you get stuck in any way, go read the blog posts from Tom and Dag in the "Thanks" section of this README.
 
 What You Get
 ============
