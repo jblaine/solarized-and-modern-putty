@@ -48,7 +48,7 @@ REGEDIT4
 "ANSIColour"=dword:00000001
 "Xterm256Colour"=dword:00000001
 "BoldAsColour"=dword:00000000
-"MouseIsXterm"=dword:00000000
+"MouseIsXterm"=dword:00000001
 "RectSelect"=dword:00000000
 "MouseOverride"=dword:00000001
 "LineCodePage"="UTF-8"
